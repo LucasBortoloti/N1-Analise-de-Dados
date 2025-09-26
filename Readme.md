@@ -4,11 +4,11 @@
 entrar na pasta cd n1_martim\scripts
 
 ## Intalar as bibliotecas:
-pip install pandas
-pip install streamlit
+pip install pandas  
+pip install streamlit  
 
 ## Rodar os arquivos em Python:
-python unir_dados.py
-python tratamento.py
-python analise.py
-python -m streamlit run dashboard.py
+python unir_dados.py  
+python tratamento.py  
+python analise.py  
+python -m streamlit run dashboard.py  
